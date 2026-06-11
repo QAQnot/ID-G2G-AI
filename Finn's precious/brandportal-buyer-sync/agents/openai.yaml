@@ -1,0 +1,3 @@
+display_name: Brand Portal Buyer Sync
+short_description: Sync Brand Portal Buyer data into Google Sheets via export or direct category API
+default_prompt: Use the Brand Portal Buyer sync workflow for the requested shop and dates. If the task is Gender/Age, use the download-based export flow and sync those tabs into Google Sheets while preserving later columns. If the task is Buyers by category, use the direct API workflow to write only columns A:H in the Buyers tab, skip dates that already exist for the same shop, and verify the result online.
