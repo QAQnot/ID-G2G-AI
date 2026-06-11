@@ -14,6 +14,6 @@
 
 [](https://github.com/francoAIPlearn/New-brand/blob/main/Finn-skill/README.md#%E5%AE%89%E5%85%A8%E7%BA%A6%E5%AE%9A)
 
-- `franco-skill/` 里不得写入真实密钥或凭证。
+- 不得写入真实密钥或凭证。
 - 所有凭证仅从本地环境变量或密钥管理器读取。
 - 提交前执行敏感词检查，例如 `token`、`api_key`、`secret`，并人工复核。
