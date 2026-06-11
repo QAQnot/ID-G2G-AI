@@ -1,0 +1,18 @@
+{
+  "buyer_code_rules": [
+    { "contains": "WK", "buyer": "WK" },
+    { "contains": "ZXS", "buyer": "WL" },
+    { "contains": "WL", "buyer": "WL" },
+    { "contains": "LLY", "buyer": "JH" },
+    { "contains": "LZY", "buyer": "ZY" },
+    { "contains": "JM", "buyer": "JM" },
+    { "contains": "CJH", "buyer": "JH" },
+    { "contains": "LKQ", "buyer": "KQ" },
+    { "contains": "ZQ", "buyer": "ZQ" }
+  ],
+  "buyer_group_rules": {
+    "收割投手": ["WL", "ZY", "JH"],
+    "合创投手": ["WK", "KQ", "JM"]
+  },
+  "note": "Start every task by asking the user whether this buyer/person mapping is still correct."
+}

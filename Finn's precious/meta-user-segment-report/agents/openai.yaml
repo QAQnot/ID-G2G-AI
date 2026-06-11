@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "Meta User Segment Report"
+  short_description: "Pull Meta audience-segment data and generate markdown analysis reports"
+  default_prompt: "Use this skill to fetch Meta Ads audience-segment data with user_segment_key and turn it into a markdown report."
