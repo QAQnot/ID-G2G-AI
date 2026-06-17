@@ -6,14 +6,22 @@
 
 1. `brandportal-shop-dashboard-export`
     
-    - 路径: `Finn-skill/brandportal-shop-dashboard-export/SKILL.md`
+    - 路径: `Finn' presious/brandportal-shop-dashboard-export/SKILL.md`
     - 用途: Shopee Brand Portal 下载与报表导出，专精于店铺维度数据。
 
+2. `brand-portal-data-download`
+    
+    - 路径: `Finn's presious/brand-portal-data-download/SKILL.md`
+    - 用途: Shopee Brand Portal 访客、买家数据导出。
 
+3. `meta-user-segment-report`
+    
+    - 路径: `Finn's presious/meta-user-segment-report/SKILL.md`
+    - 用途: Meta audien segment数据拉取，分析各版块受众细分情况。
 ## 安全约定
 
 [](https://github.com/francoAIPlearn/New-brand/blob/main/Finn-skill/README.md#%E5%AE%89%E5%85%A8%E7%BA%A6%E5%AE%9A)
 
-- 不得写入真实密钥或凭证。
+- `franco-skill/` 里不得写入真实密钥或凭证。
 - 所有凭证仅从本地环境变量或密钥管理器读取。
 - 提交前执行敏感词检查，例如 `token`、`api_key`、`secret`，并人工复核。
